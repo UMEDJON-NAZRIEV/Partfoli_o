@@ -1,1 +1,3 @@
-
+.vue-img img {
+    height: 150%!important;
+}
